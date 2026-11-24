@@ -41,7 +41,6 @@ Developed as an independent local research and calculation verification laborato
 ## Directory Structure
 
 ```text
-astrorize-vedic-research-lab/
 ├── backend/
 │   ├── app/
 │   │   ├── api/                     # REST API routers
